@@ -1,4 +1,4 @@
-# React Heatmap 
+# React Heatmap :fire::fire::fire::fire::fire::fire:
 
 A simple React component to show your mouse position density on a js canvas
 
